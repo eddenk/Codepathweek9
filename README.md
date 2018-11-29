@@ -10,7 +10,7 @@ In the beginning, I had trouble setting up the VM instances and being able to de
 
 > Number of Attacks 
 - 10 Attacks 
->> I am not sure why this number is so low, but in a span of 5 hours I recieved 10 attacks.
+> I am not sure why this number is so low, but in a span of 5 hours I recieved 10 attacks.
 
 
 > Ports Attacked
