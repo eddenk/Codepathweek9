@@ -25,7 +25,7 @@ In the beginning, I had trouble setting up the VM instances and being able to de
   23.228.99.34 (1 attacks)
   195.26.60.35 (1 attacks)
 
-<img src="https://github.com/kunal519/Honeypot/blob/master/Attacks_picture.png" alt="Attacks" title="Attacks" />
+<img src="https://github.com/eddenk/Codepathweek9/blob/master/Attacks.png" alt="Attacks" title="Attacks" />
 
 ## Any unresolved questions raised by the data collected
 Why did I have such a low number of attacks?
