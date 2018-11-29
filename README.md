@@ -1,5 +1,8 @@
 # Week 9 CodePath 
-<src="https://github.com/eddenk/Codepathweek9/blob/master/session.json">
+# Session.json file attatched: 
+
+"https://github.com/eddenk/Codepathweek9/blob/master/session.json"
+
 ## Which Honeypot(s) you deployed
 Dionaea
 
