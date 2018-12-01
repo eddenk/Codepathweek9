@@ -29,9 +29,9 @@ In the beginning, I had trouble setting up the VM instances and being able to de
   77.72.82.23 (2 attacks)
   103.114.107.109 (2 attacks)
 
-<img src="https://github.com/eddenk/Codepathweek9/blob/master/Attacks.png" alt="Attacks" title="Attacks" />
+<img src="https://github.com/eddenk/Codepathweek9/blob/master/Attacks.jpg" alt="Attacks" title="Attacks" />
 
-<img src="https://github.com/eddenk/Codepathweek9/blob/master/Attack%20Report.png" alt="Attack Report" title="Attack Report" />
+<img src="https://github.com/eddenk/Codepathweek9/blob/master/Attack%20Report.jpg" alt="Attack Report" title="Attack Report" />
 
 ## Any unresolved questions raised by the data collected
 Why did I have such a low number of attacks?
