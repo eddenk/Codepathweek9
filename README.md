@@ -12,21 +12,22 @@ In the beginning, I had trouble setting up the VM instances and being able to de
 ## A summary of the data collected: number of attacks, number of malware samples, etc.
 
 > Number of Attacks 
-- 10 Attacks 
-> I am not sure why this number is so low, but in a span of 5 hours I recieved 10 attacks.
+- 43 Attacks 
+> I am not sure why this number is so low, but in a span of 48 hours I recieved 43 attacks.
 
 
 > Ports Attacked
-- 3389 (10 times)
+- 3389 (39 times)
+- 22 (4 times)
 
 
 > Attacker IP Address
 
-  196.52.43.111 (2 attacks)
-  46.245.39.34 (1 attacks)
-  27.115.32.66 (1 attacks)
-  23.228.99.34 (1 attacks)
-  195.26.60.35 (1 attacks)
+  186.151.197.254 (4 attacks)
+  196.52.43.130 (2 attacks)
+  112.121.8.147 (2 attacks)
+  77.72.82.23 (2 attacks)
+  103.114.107.109 (2 attacks)
 
 <img src="https://github.com/eddenk/Codepathweek9/blob/master/Attacks.png" alt="Attacks" title="Attacks" />
 
